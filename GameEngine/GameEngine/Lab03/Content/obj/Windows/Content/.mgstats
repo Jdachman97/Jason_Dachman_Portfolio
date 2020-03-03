@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GameEngine (4)/GameEngine (2)/GameEngine/Lab03/Content/Font.spritefont","D:/GameEngine (4)/GameEngine (2)/GameEngine/Lab03/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.296074
+"D:/GameEngine (4)/GameEngine (2)/GameEngine/Lab03/Content/Torus.fbx","D:/GameEngine (4)/GameEngine (2)/GameEngine/Lab03/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",27936,14521,0.9406762

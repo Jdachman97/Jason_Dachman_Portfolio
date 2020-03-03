@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/mazeH.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/mazeN.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/CubeRig.fbx</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/TerrainShader.fx</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/Square.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/mazeH2.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/mazeN2.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/File.spritefont</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/SimpleShading.fx</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/Sphere.FBX</File>
+  </SourceFiles>
+</SourceFileCollection>

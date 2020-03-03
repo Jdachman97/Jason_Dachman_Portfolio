@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/asteroid1.tga</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/asteroid4.FBX</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/B1_stars.tga</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/bullet.FBX</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/engine_2.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/explosion2.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/explosion3.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/fire.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/hyperspace_activate.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/kootenay.spritefont</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/p1_wedge.fbx</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/ParticleShader-complete.fx</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/pea_proj.tga</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/Square.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/tx0_fire1.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders/Content/wedge_p1_diff_v1.tga</File>
+  </SourceFiles>
+</SourceFileCollection>

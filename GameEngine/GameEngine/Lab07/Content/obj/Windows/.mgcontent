@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Lab07/Content/Sphere.FBX</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Lab07/Content/File.spritefont</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Lab07/Content/Square.png</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Lab07/Content/SimpleShading2.fx</File>
+  </SourceFiles>
+</SourceFileCollection>

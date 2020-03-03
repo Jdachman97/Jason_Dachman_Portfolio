@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/File.spritefont</SourceFile>
+  <SourceTime>2017-03-01T08:05:30-07:00</SourceTime>
+  <DestFile>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Assignment5/Content/bin/Windows/File.xnb</DestFile>
+  <DestTime>2019-12-03T17:02:32.1801393-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

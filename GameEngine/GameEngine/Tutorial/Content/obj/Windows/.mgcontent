@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/hyperspace_activate.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/engine_2.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/explosion3.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/explosion2.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/tx0_fire1.wav</File>
+    <File>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/Tutorial/Content/Kootenay.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

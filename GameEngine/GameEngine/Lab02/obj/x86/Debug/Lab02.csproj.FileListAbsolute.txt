@@ -1,0 +1,136 @@
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.exe
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.pdb
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.pdb
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jdachman\source\repos\GameEngine\Lab02\obj\x86\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\jdachman\source\repos\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\jdachman\source\repos\GameEngine\Lab02\obj\x86\Debug\Lab02.exe
+C:\Users\jdachman\source\repos\GameEngine\Lab02\obj\x86\Debug\Lab02.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.exe
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\obj\x86\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CopyComplete
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\obj\x86\Debug\Lab02.exe
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\Lab02\obj\x86\Debug\Lab02.pdb
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Content\Square.xnb
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.exe
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.pdb
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.pdb
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.csprojResolveAssemblyReference.cache
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.exe
+C:\Users\jdachman\Downloads\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.pdb
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Square.xnb
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.exe
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.pdb
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.pdb
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.csprojAssemblyReference.cache
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CopyComplete
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.exe
+D:\GameEngine (4)\GameEngine (2)\GameEngine\Lab02\obj\x86\Debug\Lab02.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\obj\x86\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\obj\x86\Debug\Lab02.exe
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\obj\x86\Debug\Lab02.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Content\Square.xnb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.exe
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\Lab02.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\GameEngine.pdb
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\bdocm\OneDrive\Desktop\GameEngine\GameEngine\Lab02\obj\x86\Debug\Lab02.csproj.CopyComplete

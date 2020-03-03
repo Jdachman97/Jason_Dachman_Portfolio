@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders2/Content/laser-shot-silenced.wav</SourceFile>
+  <SourceTime>2019-11-23T19:19:17.2446339-07:00</SourceTime>
+  <DestFile>C:/Users/bdocm/OneDrive/Desktop/GameEngine/GameEngine/SpaceInvaders2/Content/bin/Windows/laser-shot-silenced.xnb</DestFile>
+  <DestTime>2019-12-01T18:16:21.0112803-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
